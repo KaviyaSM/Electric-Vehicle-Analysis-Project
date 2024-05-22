@@ -14,9 +14,12 @@
 
 This project leverages Power BI to analyze the electric vehicle (EV) market, focusing on Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs). The analysis aims to provide insights into market size, technological advancements, and market share distribution between BEVs and PHEVs.
 
+![E-vehicle dashboard](https://github.com/KaviyaSM/Electric-Vehicle-Analysis-Project/assets/160389389/cfec3ab3-ac73-467a-9c83-d15669df2c55)
+
+
 ### Data Source
 
-The dataset includes comprehensive information on electric vehicles, covering both BEVs and PHEVs. This data can be sourced from government databases, industry reports, or open datasets provided by automotive research organizations.[download here]
+The dataset includes comprehensive information on electric vehicles, covering both BEVs and PHEVs. This data can be sourced from government databases, industry reports, or open datasets provided by automotive research organizations.
 
 ### Tools
 
